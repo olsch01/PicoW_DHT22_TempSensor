@@ -6,5 +6,7 @@ All configuration items are contained withing Config.py:
   - Wifi SSID and Password
   - Reading Interfal
   - Location Tag (used to differentiate different sensor locations if multiple are required) within the MQTT topic string
+  - GPIO Pin for DHT22 Sensor
+  - Target MQTT Server
   
   
